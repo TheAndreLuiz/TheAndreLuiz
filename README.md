@@ -22,3 +22,4 @@ MMMMMMMMMM                             MMMMMMMMMM   WM Theme: Gruvbox
         `"MMMMMMMMM           MMMMMMMMM"`           GPU: AMD RX 6600 XT        
            `"MMMMMM           MMMMMM"`              Memory: 2910MiB / 32002MiB 
                `""M           M""`                  
+
