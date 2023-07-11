@@ -4,7 +4,7 @@
            .mMMMMMMMMMMMMMMMMMMMMMMMm.              -------------------------  
         .mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm.           OS: Vanilla OS             
       .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.         Host: B550M DS3H           
-    .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.       Languages: C++, C#, Python 
+    .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.       Languages: JS, Python 
    MMMMMMMM'  `"MMMMM"""""""MMMM""`  'MMMMMMMM      Uptime: ∞ mins     
   MMMMMMMMM                           MMMMMMMMM     Repos: 36                  
  MMMMMMMMMM:                         :MMMMMMMMMM    Pro: true                  
